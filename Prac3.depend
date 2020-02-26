@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582708320 source:/home/patrick/Documents/ClassWork/Jan-Apr-2020/Programming Methodologies/Code/Prac3/main.c
+	<stdio.h>
+	<stdlib.h>
+
